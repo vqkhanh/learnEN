@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-/leanen/node_modules
-/leanenser/node_modules
 /.pnp
 .pnp.js
 
